@@ -1,3 +1,3 @@
-module github.com/gamelaster/go-gles2.0
+module github.com/gamelaster/go-gles
 
 go 1.12
